@@ -16,8 +16,8 @@ LOCAL_PATH			:= $(call my-dir)
 GUI_PATH            := ../../../imGui
 SRC_PATH			:= ../../../src
 INC_PATH			:= ../../../inc
-GLOB_INC_PATH		:= ../../../../../../Inc
-FRM_PATH			:= $(SRC_PATH)/../../../../Samples/Framework
+GLOB_INC_PATH		:= ../../../globalInc
+FRM_PATH			:= ../../../AdrenoFramework
 FRM_OPENGL_PATH		:= $(FRM_PATH)/OpenGLES
 FRM_ANDROID_PATH	:= $(FRM_PATH)/Android
 

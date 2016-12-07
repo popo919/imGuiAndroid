@@ -1,6 +1,6 @@
-E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLES30/build/Android//obj/local/armeabi-v7a/objs/RenderToTextureOGLES30/__/__/__/src/Scene.o: \
- E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLES30/build/Android//jni/../../../src/Scene.cpp \
- ../../../src/../../../../Samples/Framework/Android/FrmPlatform.h \
+E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/imGuiAndroid/build/Android//obj/local/armeabi-v7a/objs/RenderToTextureOGLES30/__/__/__/src/Scene.o: \
+ E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/imGuiAndroid/build/Android//jni/../../../src/Scene.cpp \
+ ../../../AdrenoFramework/Android/FrmPlatform.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/jni.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -82,9 +82,8 @@ E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLE
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/keycodes.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/native_window.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/rect.h \
- ../../../../../../Inc/GLES2/gl2.h \
- ../../../../../../Inc/GLES2/gl2platform.h \
- ../../../../../../Inc/KHR/khrplatform.h \
+ ../../../globalInc/GLES2/gl2.h ../../../globalInc/GLES2/gl2platform.h \
+ ../../../globalInc/KHR/khrplatform.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/unistd.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/select.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/sysconf.h \
@@ -110,14 +109,11 @@ E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLE
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/netinet/in6.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/netdb.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/semaphore.h \
- ../../../../../../Inc/EGL/egl.h ../../../../../../Inc/EGL/eglplatform.h \
- ../../../../../../Inc/GLES3/gl3.h \
- ../../../../../../Inc/GLES3/gl3platform.h \
- ../../../../../../Inc/GLES2/gl2ext.h \
- ../../../src/../../../../Samples/Framework/FrmInput.h \
- ../../../src/../../../../Samples/Framework/FrmMath.h \
- ../../../../../../Inc/Crossplatform.h \
- ../../../src/../../../../Samples/Framework/Android/FrmMath_Platform.inl \
+ ../../../globalInc/EGL/egl.h ../../../globalInc/EGL/eglplatform.h \
+ ../../../globalInc/GLES3/gl3.h ../../../globalInc/GLES3/gl3platform.h \
+ ../../../globalInc/GLES2/gl2ext.h ../../../AdrenoFramework/FrmInput.h \
+ ../../../AdrenoFramework/FrmMath.h ../../../globalInc/Crossplatform.h \
+ ../../../AdrenoFramework/Android/FrmMath_Platform.inl \
  J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/stdlib.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h \
@@ -125,12 +121,11 @@ E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLE
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h \
  J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/math.h \
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/math.h \
- ../../../../../../Inc/FmtConversion.h ../../../../../../Inc/ArgDefines.h \
- ../../../../../../Inc/Crossplatform.h \
- ../../../src/../../../../Samples/Framework/FrmApplication.h \
- ../../../src/../../../../Samples/Framework/FrmInput.h \
- ../../../src/../../../../Samples/Framework/OpenGLES/FrmShader.h \
- ../../../inc/Scene.h \
+ ../../../globalInc/FmtConversion.h ../../../globalInc/ArgDefines.h \
+ ../../../globalInc/Crossplatform.h \
+ ../../../AdrenoFramework/FrmApplication.h \
+ ../../../AdrenoFramework/FrmInput.h \
+ ../../../AdrenoFramework/OpenGLES/FrmShader.h ../../../inc/Scene.h \
  J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/string \
  J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
  J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string.h \
@@ -216,7 +211,7 @@ E:/VR/adreno_sdk/AdrenoSDK/Development/Tutorials/OpenGLES/16_RenderToTextureOGLE
  J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/assert.h \
  ../../../imGui/imgui_impl_android_gl3.h
 
-../../../src/../../../../Samples/Framework/Android/FrmPlatform.h:
+../../../AdrenoFramework/Android/FrmPlatform.h:
 
 J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/jni.h:
 
@@ -380,11 +375,11 @@ J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/andro
 
 J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/rect.h:
 
-../../../../../../Inc/GLES2/gl2.h:
+../../../globalInc/GLES2/gl2.h:
 
-../../../../../../Inc/GLES2/gl2platform.h:
+../../../globalInc/GLES2/gl2platform.h:
 
-../../../../../../Inc/KHR/khrplatform.h:
+../../../globalInc/KHR/khrplatform.h:
 
 J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/unistd.h:
 
@@ -436,23 +431,23 @@ J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/netdb
 
 J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/semaphore.h:
 
-../../../../../../Inc/EGL/egl.h:
+../../../globalInc/EGL/egl.h:
 
-../../../../../../Inc/EGL/eglplatform.h:
+../../../globalInc/EGL/eglplatform.h:
 
-../../../../../../Inc/GLES3/gl3.h:
+../../../globalInc/GLES3/gl3.h:
 
-../../../../../../Inc/GLES3/gl3platform.h:
+../../../globalInc/GLES3/gl3platform.h:
 
-../../../../../../Inc/GLES2/gl2ext.h:
+../../../globalInc/GLES2/gl2ext.h:
 
-../../../src/../../../../Samples/Framework/FrmInput.h:
+../../../AdrenoFramework/FrmInput.h:
 
-../../../src/../../../../Samples/Framework/FrmMath.h:
+../../../AdrenoFramework/FrmMath.h:
 
-../../../../../../Inc/Crossplatform.h:
+../../../globalInc/Crossplatform.h:
 
-../../../src/../../../../Samples/Framework/Android/FrmMath_Platform.inl:
+../../../AdrenoFramework/Android/FrmMath_Platform.inl:
 
 J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h:
 
@@ -468,17 +463,17 @@ J:/opengles/ndk/android-ndk-r10d/sources/cxx-stl/stlport/stlport/math.h:
 
 J:/opengles/ndk/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/math.h:
 
-../../../../../../Inc/FmtConversion.h:
+../../../globalInc/FmtConversion.h:
 
-../../../../../../Inc/ArgDefines.h:
+../../../globalInc/ArgDefines.h:
 
-../../../../../../Inc/Crossplatform.h:
+../../../globalInc/Crossplatform.h:
 
-../../../src/../../../../Samples/Framework/FrmApplication.h:
+../../../AdrenoFramework/FrmApplication.h:
 
-../../../src/../../../../Samples/Framework/FrmInput.h:
+../../../AdrenoFramework/FrmInput.h:
 
-../../../src/../../../../Samples/Framework/OpenGLES/FrmShader.h:
+../../../AdrenoFramework/OpenGLES/FrmShader.h:
 
 ../../../inc/Scene.h:
 
