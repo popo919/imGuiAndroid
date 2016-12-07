@@ -1,2 +1,2 @@
 # imGuiAndroid
-imgui android demo (with adreno sdk)
+imgui android NDK demo (with adreno sdk)
